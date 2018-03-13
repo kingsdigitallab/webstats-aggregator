@@ -7,7 +7,7 @@ from ssl import CertificateError
 import json
 import unicodedata
 
-AWSTATS_PATH = 'awstats.pl?month=all&output=main&config=languageacts-webstats.kdl.kcl.ac.uk&framename=mainright&year='
+AWSTATS_PATH = 'awstats.pl?month=all&output=main&framename=mainright&year='
 VHOSTS_FILE='/vol/csg/auto/allvhosts'
 WEBSTATS_HOSTS = []
 
